@@ -70,4 +70,4 @@ Caso tenha dificuldades, poste sua dúvida no fórum ou envie uma mensagem com:
 - Sistema operacional
 - O que tentou fazer
 
-Obrigado por usar o projeto L2JDream!
+Obrigado por usar o projeto L2JDreamV2!
